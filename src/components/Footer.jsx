@@ -60,19 +60,19 @@ import {
             <Heading size={'md'} textTransform={'uppercase'}>
               Social Media
             </Heading>
-            <Button variant={'link'} colorScheme={'white'}>
+            {/* <Button variant={'link'} colorScheme={'white'}>
               <a target={'black'} href="https://youtube.com/">
                 Youtube
               </a>
-            </Button>
+            </Button> */}
             <Button variant={'link'} colorScheme={'white'}>
-              <a target={'black'} href="https://instagram.com/">
-                Instagram
+              <a target={'black'} href="https://github.com/DeepanshuYaduvanshi">
+                Github
               </a>
             </Button>
   
             <Button variant={'link'} colorScheme={'white'}>
-              <a target={'black'} href="https://www.linkedin.com/in/deepanshu-yaduvanshi-30aa29229/">
+              <a target={'black'} href="https://www.linkedin.com/in/deepanshu-879883280/">
                 LinkedIn
               </a>
             </Button>

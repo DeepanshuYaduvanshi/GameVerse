@@ -28,10 +28,9 @@ const Videos = () => {
 
         <VStack alignItems={'flex-start'} p={'8'} w={'full'} overflowY={'auto'} // text overflow manage in y dirn
         >
-          <Heading>Sample Video 1</Heading>
+          <Heading>GAMEPLAY</Heading>
           <Text>
-            This is a sample video for testing and demo. This is called
-            description.
+            Welcome to the Gaming World !!! 
           </Text>
         </VStack>
       </VStack>
@@ -50,7 +49,7 @@ const Videos = () => {
             onClick={() => setVideoSrc(item)}
           >
             {/* lecture count */}
-            Lecture {index + 1}
+            GamePlay {index + 1}
           </Button>
         ))}
       </VStack>
