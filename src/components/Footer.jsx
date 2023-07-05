@@ -72,7 +72,7 @@ import {
             </Button>
   
             <Button variant={'link'} colorScheme={'white'}>
-              <a target={'black'} href="https://www.linkedin.com/in/deepanshu-879883280/">
+              <a target={'black'} href="https://linkedin.com/in/deepanshu-yaduvanshi-30aa29229">
                 LinkedIn
               </a>
             </Button>
